@@ -1,0 +1,5 @@
+machine_id,issue,category,impact
+GSR947,Component misalignment,DPU MFG,Increased defect rate
+GSR947,Firmware glitch,DPU CE & Software,Inconsistent output
+GBR186,Material inconsistency,DPU MFG,High rejection rate
+GBR186,Customer complaint,DPU Cust,Performance issues
